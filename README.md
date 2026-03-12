@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Cenap</h1>
-<h3 align="center">Computer engineer passionate about building web apps and exploring data & AI.</h3>
+<h3 align="center">Computer engineering graduate passionate about building web applications and exploring data & AI.</h3>
 
 <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;React+.NET+Developer;Data+Engineering+Learner;Always+Learning+New+Technologies&center=true&width=500&height=50">
 - 🌱 I’m currently learning **React, .NET, PostgreSQL and Data Engineering with Python**
@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **cenapbyrm@gmail.com**
 
-- 📄 Know about my experiences [Computer Engineering graduate passionate about software development](Computer Engineering graduate passionate about software development)
+- 📄 Know about my experiences [Computer Engineering graduate passionate about software development]
 
 - ⚡ Fun fact **I love turning ideas into real applications.**
 
