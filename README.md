@@ -4,7 +4,7 @@
 <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;React+.NET+Developer;Data+Engineering+Learner;Always+Learning+New+Technologies&center=true&width=500&height=50">
 - 🌱 I’m currently learning **React, .NET, PostgreSQL and Data Engineering with Python**
 
-- 👨‍💻 All of my projects are available at [My GitHub repositories](My GitHub repositories)
+- 👨‍💻 All of my projects are available at [My GitHub repositories]
 
 - 💬 Ask me about **JavaScript, React, Web Development and Data Analysis**
 
