@@ -27,5 +27,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cenap35&show_icons=true&locale=en&layout=compact" alt="cenap35" /></p>
 
 
-
 ![snake](https://raw.githubusercontent.com/cenap35/cenap35/output/github-contribution-grid-snake.svg)
