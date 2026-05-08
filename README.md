@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Cenap</h1>
 
 <h3 align="center">
-  🚀 Full Stack Developer | .NET & React | Data Engineering Enthusiast
+  🚀 Full Stack Developer | .NET & React
 </h3>
 
 <h3 align="center">Computer engineering graduate passionate about building web applications and exploring data & AI.</h3>
