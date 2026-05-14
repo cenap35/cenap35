@@ -72,12 +72,6 @@
 </p>
 
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=cenap35&show_icons=true&theme=tokyonight"/>
-</p>
-
-
-
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cenap35/cenap35/output/github-snake-dark.svg">
