@@ -4,11 +4,11 @@
   🚀 Full Stack Developer | .NET & React
 </h3>
 
-<h3 align="center">Computer engineering graduate passionate about building web applications and exploring data & AI.</h3>
+<h3 align="center">Computer Engineer focused on building scalable full-stack applications, backend systems, and data-driven software solutions.</h3>
 
 <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;React+.NET+Developer;Always+Learning+New+Technologies&center=true&width=500&height=50">
 
-- 🚀 Currently developing full stack applications using React and .NET, while deepening my knowledge in PostgreSQL and data engineering with Python
+- 🚀 Building full-stack applications with React and ASP.NET Core, while strengthening my skills in backend architecture, PostgreSQL, API development, and data-driven solutions with Python.
 
 - 👨‍💻 Explore my work and projects on GitHub:  
   🔗 https://github.com/cenap35
